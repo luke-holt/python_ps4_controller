@@ -1,0 +1,18 @@
+{
+    "X": 0,
+    "CIRCLE": 1,
+    "SQUARE": 2,
+    "TRIANGLE": 3,
+    "SHARE": 4,
+    "PLAYSTATION": 5,
+    "OPTIONS": 6,
+    "L3": 7,
+    "R3": 8,
+    "L2": 9,
+    "R2": 10,
+    "DPAD_UP": 11,
+    "DPAD_DOWN": 12,
+    "DPAD_LEFT": 13,
+    "DPAD_RIGHT": 14,
+    "TOUCHPAD": 15
+}
